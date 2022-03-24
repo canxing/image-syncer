@@ -1,7 +1,7 @@
 auth:
-  registry.cn-chengdu.aliyuncs.com:
+  hub.docker.com:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
   # rook
-  k8s.gcr.io/kube-state-metrics/kube-state-metrics: registry.cn-chengdu.aliyuncs.com/liuxin-registry/kube-state-metrics
+  k8s.gcr.io/kube-state-metrics/kube-state-metrics: liuxincuit/kube-state-metrics
