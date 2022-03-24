@@ -1,5 +1,5 @@
 auth:
-  registry.chengdu.aliyuncs.com:
+  registry.cn-chengdu.aliyuncs.com:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
