@@ -1,5 +1,5 @@
 auth:
-  docker.io:
+  registry.hub.docker.com:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
