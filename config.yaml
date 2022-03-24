@@ -1,5 +1,5 @@
 auth:
-  hub.docker.com:
+  docker.io:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
