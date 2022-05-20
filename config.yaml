@@ -6,3 +6,4 @@ images:
   # rook
   k8s.gcr.io/kube-state-metrics/kube-state-metrics: liuxincuit/kube-state-metrics
   k8s.gcr.io/ingress-nginx/controller: liuxincuit/nginx-ingress-controller
+  quay.io/maksymbilenko/oracle-12c: liuxincuit/oracle-12c
