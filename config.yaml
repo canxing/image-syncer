@@ -14,3 +14,4 @@ images:
   k8s.gcr.io/etcd: liuxincuit/etcd
   k8s.gcr.io/coredns: liuxincuit/coredns
   quay.io/maksymbilenko/oracle-12c: liuxincuit/oracle-12c
+  adminer: liuxincuit/adminer
