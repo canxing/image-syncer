@@ -15,4 +15,3 @@ images:
   k8s.gcr.io/coredns: liuxincuit/coredns
   quay.io/maksymbilenko/oracle-12c: liuxincuit/oracle-12c
   registry.k8s.io/echoserver: liuxincuit/echoserver
-  adminer: liuxincuit/adminer
