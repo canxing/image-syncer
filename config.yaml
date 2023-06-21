@@ -15,3 +15,4 @@ images:
   k8s.gcr.io/coredns/coredns: liuxincuit/coredns
   quay.io/maksymbilenko/oracle-12c: liuxincuit/oracle-12c
   registry.k8s.io/echoserver: liuxincuit/echoserver
+  registry.k8s.io/metrics-server/metrics-server: liuxincuit/metrics-serve
