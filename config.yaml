@@ -16,3 +16,4 @@ images:
   quay.io/maksymbilenko/oracle-12c: liuxincuit/oracle-12c
   registry.k8s.io/echoserver: liuxincuit/echoserver
   registry.k8s.io/metrics-server/metrics-server: liuxincuit/metrics-serve
+  gcr.io/cadvisor/cadvisor:v0.45.0: liuxincuit/cadvisor:v0.45.0
