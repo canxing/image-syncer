@@ -4,16 +4,16 @@ auth:
     password: DOCKERHUB_PASSWORD
 images:
   # rook
-  k8s.gcr.io/kube-state-metrics/kube-state-metrics: liuxincuit/kube-state-metrics
-  k8s.gcr.io/ingress-nginx/controller: liuxincuit/nginx-ingress-controller
-  k8s.gcr.io/kube-apiserver: liuxincuit/kube-apiserver
-  k8s.gcr.io/kube-controller-manager: liuxincuit/kube-controller-manager
-  k8s.gcr.io/kube-scheduler: liuxincuit/kube-scheduler
-  k8s.gcr.io/kube-proxy: liuxincuit/kube-proxy
-  k8s.gcr.io/pause: liuxincuit/pause
-  k8s.gcr.io/etcd: liuxincuit/etcd
-  k8s.gcr.io/coredns/coredns: liuxincuit/coredns
-  quay.io/maksymbilenko/oracle-12c: liuxincuit/oracle-12c
-  registry.k8s.io/echoserver: liuxincuit/echoserver
-  registry.k8s.io/metrics-server/metrics-server: liuxincuit/metrics-serve
-  gcr.io/cadvisor/cadvisor: liuxincuit/cadvisor
+  # k8s.gcr.io/kube-state-metrics/kube-state-metrics: liuxincuit/kube-state-metrics
+  registry.k8s.io/ingress-nginx/controller: liuxincuit/nginx-ingress-controller
+  # k8s.gcr.io/kube-apiserver: liuxincuit/kube-apiserver
+  # k8s.gcr.io/kube-controller-manager: liuxincuit/kube-controller-manager
+  # k8s.gcr.io/kube-scheduler: liuxincuit/kube-scheduler
+  # k8s.gcr.io/kube-proxy: liuxincuit/kube-proxy
+  # k8s.gcr.io/pause: liuxincuit/pause
+  # k8s.gcr.io/etcd: liuxincuit/etcd
+  # k8s.gcr.io/coredns/coredns: liuxincuit/coredns
+  # quay.io/maksymbilenko/oracle-12c: liuxincuit/oracle-12c
+  # registry.k8s.io/echoserver: liuxincuit/echoserver
+  # registry.k8s.io/metrics-server/metrics-server: liuxincuit/metrics-serve
+  # gcr.io/cadvisor/cadvisor: liuxincuit/cadvisor
