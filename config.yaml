@@ -5,7 +5,11 @@ auth:
 images:
   # rook
   # k8s.gcr.io/kube-state-metrics/kube-state-metrics: liuxincuit/kube-state-metrics
-  registry.k8s.io/ingress-nginx/controller: liuxincuit/nginx-ingress-controller
+  # registry.k8s.io/ingress-nginx/controller: liuxincuit/nginx-ingress-controller
+  docker.io/calico/cni:v3.28.2: liuxincuit/calico-cni:v3.28.2
+  docker.io/calico/node:v3.28.2: liuxincuit/calico-node:v3.28.2
+  docker.io/calico/kube-controllers:v3.28.2: liuxincuit/calico-kube-controllers:v3.28.2
+  quay.io/tigera/operator:v1.34.5: liuxincuit/tigera-operator:v1.34.5
   # k8s.gcr.io/kube-apiserver: liuxincuit/kube-apiserver
   # k8s.gcr.io/kube-controller-manager: liuxincuit/kube-controller-manager
   # k8s.gcr.io/kube-scheduler: liuxincuit/kube-scheduler
